@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: Обо мне:
-##### :woman_student: Я студентка 3 курса БГУИР.
+##### :woman_student: Я студентка 4 курса БГУИР.
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg1OW1zN3QxZzJ6M29pOHcwMW0zd3prbmF2MGpzdm00YW96Yzh3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="200">
 
 ---
